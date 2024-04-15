@@ -1,5 +1,6 @@
 # Netflix_insights
-Welcome to the "AI - Netflix insights" project. 
+
+Welcome to the "AI - Netflix insights" project.
 
 ## Introduction
 
@@ -51,14 +52,14 @@ Descriptive analysis is an important phase in data exploration that involves sum
 
 Descriptive analytics is especially useful for communicating change over time and uses trends as a springboard for further analysis to drive decision-making.
 
-## 2. Netflix 
+## 2. Netflix
 
 ## Conclusion
 
-## Sources :
+## Sources
 
-https://www.techtarget.com/searchdatamanagement/definition/data-preprocessing  
-https://www.questionpro.com/blog/descriptive-analysis/#:~:text=Descriptive%20analysis%20is%20an%20important,%2C%20dispersion%2C%20and%20identifying%20position.  
-https://online.hbs.edu/blog/post/descriptive-analytics  
-https://www.coursera.org/articles/what-is-machine-learning?utm_medium=sem&utm_source=gg&utm_campaign=B2C_EMEA_google-cybersecurity_google_FTCOF_professional-certificates_country-multi-pmax-braze-ftp-180d_coursera-non-mdf&campaignid=20858198818&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&adposition=&creativeid=&hide_mobile_promo&gad_source=1&gclid=CjwKCAjwoPOwBhAeEiwAJuXRhxEnKsg8IaHlMhCw8i97i-YP_Et14aF9RlvkoFyDHHz8_Qmj_gUEhRoC91kQAvD_BwE  
-https://www.simplilearn.com/tutorials/artificial-intelligence-tutorial/what-is-artificial-intelligence
+<https://www.techtarget.com/searchdatamanagement/definition/data-preprocessing>  
+<https://www.questionpro.com/blog/descriptive-analysis/#:~:text=Descriptive%20analysis%20is%20an%20important,%2C%20dispersion%2C%20and%20identifying%20position>.  
+<https://online.hbs.edu/blog/post/descriptive-analytics>  
+<https://www.coursera.org/articles/what-is-machine-learning?utm_medium=sem&utm_source=gg&utm_campaign=B2C_EMEA_google-cybersecurity_google_FTCOF_professional-certificates_country-multi-pmax-braze-ftp-180d_coursera-non-mdf&campaignid=20858198818&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&adposition=&creativeid=&hide_mobile_promo&gad_source=1&gclid=CjwKCAjwoPOwBhAeEiwAJuXRhxEnKsg8IaHlMhCw8i97i-YP_Et14aF9RlvkoFyDHHz8_Qmj_gUEhRoC91kQAvD_BwE>  
+<https://www.simplilearn.com/tutorials/artificial-intelligence-tutorial/what-is-artificial-intelligence>
