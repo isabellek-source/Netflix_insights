@@ -10,10 +10,6 @@ Le **Pré-traitement des Données** est essentiel pour préparer les données av
 ### :star: Analyse Descriptive des Données
 L'**Analyse Descriptive des Données** utilise des statistiques descriptives et des visualisations pour résumer et décrire les caractéristiques des données. Elle aide à comprendre la distribution, la tendance centrale et la dispersion des données, fournissant une base pour des analyses plus complexes.
 
-# Applications de l'Intelligence Artificielle dans le Domaine Juridique
-
-Ce README explore les diverses applications possibles de l'intelligence artificielle (IA) dans le domaine juridique, démontrant comment l'IA peut transformer et améliorer les pratiques traditionnelles.
-
 ## Applications de l'IA dans le Juridique
 
 ### :star: Analyse de Documents Juridiques
