@@ -1,5 +1,3 @@
-Introduction
-
 ### :star: Intelligence Artificielle (IA)
 L'**Intelligence Artificielle** est un champ de l'informatique dédié à la création de machines capables de réaliser des tâches qui nécessitent traditionnellement l'intelligence humaine. Cela inclut des activités comme résoudre des problèmes, prendre des décisions, comprendre le langage, et percevoir visuellement. L'IA se divise en IA faible, pour des tâches spécifiques, et IA forte, pour simuler l'intelligence humaine de manière globale.
 
@@ -11,6 +9,8 @@ Le **Pré-traitement des Données** est essentiel pour préparer les données av
 
 ### :star: Analyse Descriptive des Données
 L'**Analyse Descriptive des Données** utilise des statistiques descriptives et des visualisations pour résumer et décrire les caractéristiques des données. Elle aide à comprendre la distribution, la tendance centrale et la dispersion des données, fournissant une base pour des analyses plus complexes.
+
+
 
 
 
