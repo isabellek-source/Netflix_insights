@@ -1,5 +1,5 @@
 ### :star: Intelligence Artificielle (IA)
-L'**Intelligence Artificielle** L'intelligence artificielle (IA) est un processus d'imitation de l'intelligence humaine qui repose sur la création et l'application d'algorithmes exécutés dans un environnement informatique dynamique.
+L'**Intelligence Artificielle** (IA) est un processus d'imitation de l'intelligence humaine qui repose sur la création et l'application d'algorithmes exécutés dans un environnement informatique dynamique.
 
 ### :star: Machine Learning (Apprentissage Automatique)
 Le **Machine Learning** est une sous-discipline de l'IA qui permet aux systèmes d'apprendre et de s'améliorer à partir des données sans être explicitement programmés pour chaque tâche. Ces systèmes détectent des patterns dans les données et peuvent faire des prédictions ou prendre des décisions basées sur de nouvelles données.
