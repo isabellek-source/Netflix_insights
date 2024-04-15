@@ -1,4 +1,4 @@
-A apprendre
+Introduction
 
 ### :star: Intelligence Artificielle (IA)
 L'**Intelligence Artificielle** est un champ de l'informatique dédié à la création de machines capables de réaliser des tâches qui nécessitent traditionnellement l'intelligence humaine. Cela inclut des activités comme résoudre des problèmes, prendre des décisions, comprendre le langage, et percevoir visuellement. L'IA se divise en IA faible, pour des tâches spécifiques, et IA forte, pour simuler l'intelligence humaine de manière globale.
