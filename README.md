@@ -2,6 +2,8 @@
 
 Welcome to the "AI - Netflix insights" project.
 
+![alt text](Pictures/Netflix.webp)
+
 ## Introduction
 
 Artificial Intelligence (AI) has emerged as a transformative force reshaping industries and societies since its inception. From its early conceptualization as a pursuit of replicating human cognitive abilities to its modern-day application across diverse domains, the journey of AI reflects a relentless pursuit of innovation and advancement.  
@@ -12,7 +14,10 @@ In our current project, we delve into the fundamental concepts of artificial int
 
 Moreover, our project entails practical hands-on experience with Python's powerful data manipulation library, pandas.  
 
+![alt text](Pictures/Ia_md.jpeg)
+
 ## 1. AI Watch
+
 
 ### Artificial Intelligence
 
@@ -20,11 +25,15 @@ AI is the simulation of human intelligence in machines that are programmed to th
 
 AI is a method of making a computer, a computer-controlled robot, or a software think intelligently like the human mind. AI is accomplished by studying the patterns of the human brain and by analyzing the cognitive process. The outcome of these studies develops intelligent software and systems.  
 
+![alt text](Pictures/IA.jpeg)
+
 ### Machine Learning
 
 Machine learning is a subfield of AI that uses algorithms trained on data sets to create models that enable machines to perform tasks that would otherwise only be possible for humans, such as categorizing images, analyzing data, or predicting price fluctuations.  
 
 Today, machine learning is one of the most common forms of AI and often powers many of the digital goods and services we use every day.  
+
+![alt text](<Pictures/Machine Learning.jpeg>)
 
 ### Data preprocessing
 
@@ -38,6 +47,8 @@ There are several different tools and methods used for preprocessing data, inclu
 - imputation, which synthesizes statistically relevant data for missing values;  
 - normalization, which organizes data for more efficient access;  
 - feature extraction, which pulls out a relevant feature subset that is significant in a particular context.
+
+![alt text](<Pictures/data processing.jpeg>)
 
 ### Descriptive Data Analysis
 
