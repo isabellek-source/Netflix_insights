@@ -63,39 +63,50 @@ Descriptive analysis is an important phase in data exploration that involves sum
 
 Descriptive analytics is especially useful for communicating change over time and uses trends as a springboard for further analysis to drive decision-making.
 
-### Applications de l'IA dans la santé
+### Applications of AI in Healthcare
 
-❤️ Diagnostic et prévision
+![alt text](Pictures/health_ia.jpeg)
 
-Des Systèmes basés sur l'IA peuvent aider à diagnostiquer des maladies à partir d'images médicales, de données génétiques ou d'autres entrées biométriques avec une précision parfois supérieur à celle des humains. Des exemples incluent la détecion précoce de maladies comme le cancer ou les maladies cardiovasculaires.
+❤️ Diagnosis and Prediction
 
-❤️ Personnalisation des traitements
+AI-based systems can assist in diagnosing diseases from medical images, genetic data, or other biometric inputs with accuracy sometimes surpassing that of humans. Examples include early detection of diseases such as cancer or cardiovascular conditions.
 
-L'IA permet une approche plus personnalisée de la médecine, adaptant les traitements en fonction des données individuelle des patients, ce qui peut augmenter l'efficacité des traitements et minimiser les effets secondaires.
+❤️ Treatment Personalization
 
-❤️ Optimisation des ressources hospitalières
+AI enables a more personalized approach to medicine by tailoring treatments based on individual patient data. This can enhance treatment effectiveness and minimize side effects.
 
-Les systèmes d'IA peuvent prédire les périodes de forte demande en soins, aider à la gestion des stocks de médicaments, et optimiser les plannings des personnels et l'utilisation des équipements.
+❤️ Hospital Resource Optimization
 
-❤️ Développement de nouveaux médicaments
+AI systems can predict high-demand periods for healthcare services, aid in managing medication stocks, and optimize staff schedules and equipment utilization.
 
-L'IA accélère le processus de découverte de médicaments en prédisant l'éfficacité des molécules candidates beacoup plus rapidement qu'avec les méthodes traditionnelles.
+![alt text](Pictures/hospital.jpeg)
 
-❤️ Robots chirurgicaux
+❤️ Drug Development
 
-Des robots assistées par IA peuvent effectuer des chirurgues avec une précision et une constance souvent supérieures à celles des chirurgiens humains, réduisant les risques et améliorant les temps de récupération.
+AI accelerates drug discovery by predicting the efficacy of candidate molecules much faster than traditional methods.
 
-❤️ Surveillance continue à distance
+![alt text](Pictures/drug_ia.jpeg)
 
-Grâce à l'IA, il est possible de surveiller en continu l'état de santé des patients à distance, permettant une intervention rapide en cas de dégradation de l'état de santé, ce qui est particulièrement utile pour les patients chroniques ou en convalescence.
+❤️ Surgical Robots
 
-### Conclusion
+AI-assisted robots can perform surgeries with precision and consistency often superior to human surgeons, reducing risks and improving recovery times.
 
-En somme, l'intégration de l'intelligence artificielle dans le domaine de la santé à le potentiel non seulement d'améliorer la qualité et l'accésibilité des soins, mais également de réduire considérablement les coûts, tout en offrant des solutions plus personnalisées et efficaces pour les patients.
+![alt text](Pictures/surgi_health.jpeg)
+
+❤️ Remote Continuous Monitoring
+
+Thanks to AI, continuous remote health monitoring is possible. This allows for swift intervention in case of health deterioration, particularly beneficial for chronic or convalescent patients.
+
+Conclusion
+
+In summary, integrating artificial intelligence into healthcare has the potential not only to enhance the quality and accessibility of care but also to significantly reduce costs while providing more personalized and effective solutions for patients.
 
 ## 2. Netflix
 
-Link to the jupyter Notebook
+<Link to the Jupyter Notebook>
+
+![alt text](Pictures/logo-Jupyter_logo.png)
+
 
 ## Conclusion
 
