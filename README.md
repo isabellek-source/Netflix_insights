@@ -52,9 +52,42 @@ Descriptive analysis is an important phase in data exploration that involves sum
 
 Descriptive analytics is especially useful for communicating change over time and uses trends as a springboard for further analysis to drive decision-making.
 
+### Applications de l'IA dans la santé
+
+❤️ Diagnostic et prévision
+
+Des Systèmes basés sur l'IA peuvent aider à diagnostiquer des maladies à partir d'images médicales, de données génétiques ou d'autres entrées biométriques avec une précision parfois supérieur à celle des humains. Des exemples incluent la détecion précoce de maladies comme le cancer ou les maladies cardiovasculaires.
+
+❤️ Personnalisation des traitements
+
+L'IA permet une approche plus personnalisée de la médecine, adaptant les traitements en fonction des données individuelle des patients, ce qui peut augmenter l'efficacité des traitements et minimiser les effets secondaires.
+
+❤️ Optimisation des ressources hospitalières
+
+Les systèmes d'IA peuvent prédire les périodes de forte demande en soins, aider à la gestion des stocks de médicaments, et optimiser les plannings des personnels et l'utilisation des équipements.
+
+❤️ Développement de nouveaux médicaments
+
+L'IA accélère le processus de découverte de médicaments en prédisant l'éfficacité des molécules candidates beacoup plus rapidement qu'avec les méthodes traditionnelles.
+
+❤️ Robots chirurgicaux
+
+Des robots assistées par IA peuvent effectuer des chirurgues avec une précision et une constance souvent supérieures à celles des chirurgiens humains, réduisant les risques et améliorant les temps de récupération.
+
+❤️ Surveillance continue à distance
+
+Grâce à l'IA, il est possible de surveiller en continu l'état de santé des patients à distance, permettant une intervention rapide en cas de dégradation de l'état de santé, ce qui est particulièrement utile pour les patients chroniques ou en convalescence.
+
+### Conclusion
+
+En somme, l'intégration de l'intelligence artificielle dans le domaine de la santé à le potentiel non seulement d'améliorer la qualité et l'accésibilité des soins, mais également de réduire considérablement les coûts, tout en offrant des solutions plus personnalisées et efficaces pour les patients.
+
 ## 2. Netflix
 
+Link to the jupyter Notebook
+
 ## Conclusion
+
 
 ## Sources
 
