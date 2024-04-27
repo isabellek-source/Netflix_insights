@@ -63,33 +63,6 @@ Descriptive analysis is an important phase in data exploration that involves sum
 
 Descriptive analytics is especially useful for communicating change over time and uses trends as a springboard for further analysis to drive decision-making.
 
-### Great blue whales
-
-Largest Animals Ever: Blue whales hold the title of being the largest animals to have ever lived on Earth. These magnificent marine mammals can reach lengths of up to 100 feet and weigh upwards of 200 tons. To put that in perspective, their tongues alone can weigh as much as an elephant, and their hearts match the weight of an automobile12.
-
-Krill Diet: Blue whales achieve their mind-boggling dimensions by feasting almost exclusively on tiny shrimp-like creatures called krill. During certain seasons, a single adult blue whale consumes about 4 tons of krill per day.
-
-Baleen Whales: Blue whales belong to the group of baleen whales. They have fringed plates of fingernail-like material called baleen attached to their upper jaws. These giant animals feed by gulping an enormous mouthful of water, then using their massive tongue to force the water out through thin, overlapping baleen plates, leaving thousands of krill behind to be swallowed.
-
-Coloring and Appearance: Underwater, blue whales appear true blue, but on the surface, their coloring is more mottled blue-gray. Their underbellies take on a yellowish hue due to the millions of microorganisms that reside in their skin.
-
-Distinctive Features: Blue whales have a broad, flat head and a long, tapered body that ends in wide, triangular flukes. Their sheer size and unique appearance make them unmistakable.
-
-Vocalization and Behavior: These graceful swimmers live in oceans worldwide (except the Arctic). They often spend summers feeding in polar waters and migrate toward the Equator as winter approaches. Blue whales are among the loudest animals on the planet, emitting a series of pulses, groans, and moans. In optimal conditions, they can hear each other up to 1,000 miles away. Scientists believe they use these vocalizations not only for communication but also for sonar navigation in the lightless ocean depths.
-
-Calves: Blue whale calves are born already ranking among the planet’s largest creatures. After about a year inside their mother’s womb, a baby blue whale emerges, weighing up to 3 tons and stretching to 25 feet.
-
-Mother-Calf Bond: The bond between a blue whale mother and calf is the strongest in the whale community. These nurturing giants ensure their offspring’s survival during the early stages of life.
-
-Longevity: Blue whales can live up to 90 years in the wild, making their lifespan impressive given their immense size.
-
-Conservation Status: Despite their grandeur, blue whales face threats such as ship strikes, entanglement in fishing gear, and habitat degradation. Conservation efforts are crucial to protect these gentle giants and ensure their continued existence.
-
-In summary, blue whales are not only awe-inspiring in size but also vital indicators of our oceans’ health. Their survival depends on our collective commitment to conservation efforts134.
-
-![alt text](Pictures/bluewhale.jpg)
-
-
 ### Applications of AI in Healthcare
 
 ![alt text](Pictures/health_ia.jpeg)
